@@ -1,3 +1,3 @@
 # Image Captioning
 
-In this second project of CVND-Udacity, a neural network architecture has been built that automatically generate captions from images. The network has been trained using Microsoft Common Objects in COntext (MS COCO) dataset.
+The purpose of this project is to develop a deep learning model that automatically generates captions from images. The network is trained using Microsoft Common Objects in COntext (MS COCO) dataset.
